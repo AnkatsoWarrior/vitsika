@@ -1,0 +1,2 @@
+2016-05-30 00:48:22,740 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.vitsika:vitsika-parent:1.0 @ /Users/andriantomanga/Desktop/projets/vitsika/vitsika-parent/pom.xml.
+2016-05-30 00:48:59,182 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.vitsika:vitsika-parent:1.0 @ /Users/andriantomanga/Desktop/projets/vitsika/vitsika-parent/pom.xml.
